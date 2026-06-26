@@ -68,11 +68,14 @@ Server generates random code
 Stores it in memory (dictionary)
 Returns short URL
 Visiting short URL redirects to original URL
+
 ⚠️ Limitations
+
 ❌ No database (data resets on restart)
 ❌ No authentication
 ❌ Demo project only
 🚀 Future Improvements
+
 SQLite / PostgreSQL database
 Click tracking
 Frontend UI
